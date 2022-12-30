@@ -61,7 +61,7 @@ LEVERRIGHT_PNG = pygame.image.load("Images/Map_Sprites/leverright.png")
 
 #---------- GAME SOUNDS ---------#
 
-LAVA_WAV =pygame.mixer.Sound("Sounds/lava.wav")
+LAVA_WAV = pygame.mixer.Sound("Sounds/lava.wav")
 OPENDOOR_WAV = pygame.mixer.Sound("Sounds/opendoor.wav")
 JUMP_WAV = pygame.mixer.Sound("Sounds/jump.wav")
 COIN_WAV = pygame.mixer.Sound("Sounds/coin.wav")
